@@ -101,7 +101,9 @@ usage: killme
  Drop an email at **shu@indoxploit.or.id** and tell us what your suggestions about how to improve this webshell.
 
 ## Article
--
+- [Download Shell Backdoor IndoXploit V.3](https://exploit.linuxsec.org/download-shell-backdoor-indoxploit-v-3/)
+- [Download Shell backdoor Indoxploit V.2](https://exploit.linuxsec.org/shell-indoxploit-v2-dirilis/)
+- [Download IndoXploit WebShell First Edition](https://exploit.linuxsec.org/indoxploit-shell-v1/)
 
 ## Disclaimer
 Note: modifications, changes, or changes to this code can be accepted, however, every public release that uses this code must be approved by writing this tool (indoxploit team)
