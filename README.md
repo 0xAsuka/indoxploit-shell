@@ -2,6 +2,10 @@
 
 IndoXploit webshell V.3 is an PHP based webshell or backdoor with unique and usefull features. This webshell is originally coded by **agussetyar** from **IndoXploit Coders Team**. IndoXploit Shell has been mentioned repeatedly by the coder that it will make you easily bypass server security. With this shell you can comfortably bypass the server firewall from most secure servers. It is one of the hacker's most preferred backdoor shell.
 
+~~~
+Usage of indoxploit shell for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+~~~
+
 ---
 
 ## Screenshot
@@ -98,3 +102,8 @@ usage: killme
  ## Contribute
  Drop an email at **shu@indoxploit.or.id** and tell us what your suggestions about how to improve this webshell.
 
+## Article
+-
+
+## Disclaimer
+Note: modifications, changes, or changes to this code can be accepted, however, every public release that uses this code must be approved by writing this tool (indoxploit team)
