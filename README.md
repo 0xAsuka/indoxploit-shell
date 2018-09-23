@@ -69,7 +69,11 @@ usage: idxconfig
  usage: krdp
 
  - Logout From Shell
-usage: logout
+ 
 
  - Kill Backdoor 
 usage: killme
+
+ ## Contribute
+ Drop an email at **shu@indoxploit.or.id** and tell us what your suggestions about how to improve this webshell.
+usage: logout
