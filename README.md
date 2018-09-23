@@ -68,13 +68,11 @@ usage: idxconfig
  - KRDP - Create RDP Account (for windows server only) 
  usage: krdp
 
- *** Logout From Shell ***
+ ***Logout From Shell***
  usage: 
- ~~~
  logout
- ~~~
 
- - Kill Backdoor 
+ ***Kill Backdoor***
 usage: killme
 
  ## Contribute
