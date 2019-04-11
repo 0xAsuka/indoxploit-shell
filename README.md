@@ -106,4 +106,6 @@ usage: killme
 - [Download IndoXploit WebShell First Edition](https://exploit.linuxsec.org/indoxploit-shell-v1/)
 
 ## Disclaimer
+Any actions and or activities related to the material contained within this tool is solely your responsibility.The misuse of the information in this tool can result in criminal charges brought against the persons in question.
+
 Note: modifications, changes, or changes to this code can be accepted, however, every public release that uses this code must be approved by writing this tool (indoxploit team)
