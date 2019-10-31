@@ -28,6 +28,7 @@ function login_shell() {
 <!DOCTYPE HTML>
 <html>
 <head>
+<meta name="robots" content"noindex. nofollow">
 <title>IndoXploit</title>
 <style type="text/css">
 html {
